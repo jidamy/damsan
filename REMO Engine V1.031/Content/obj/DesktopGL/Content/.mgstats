@@ -1,0 +1,6 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"Z:/Projects/DamSan_project_2020_01_18/REMO Engine V1.031/Content/REMO.Cursor.png","Z:/Projects/DamSan_project_2020_01_18/REMO Engine V1.031/Content/bin/DesktopGL/Content/REMO.Cursor.xnb","TextureProcessor","Texture2DContent",786,4181,0.1010104
+"Z:/Projects/DamSan_project_2020_01_18/REMO Engine V1.031/Content/REMO.DefaultFont.spritefont","Z:/Projects/DamSan_project_2020_01_18/REMO Engine V1.031/Content/bin/DesktopGL/Content/REMO.DefaultFont.xnb","FontDescriptionProcessor","SpriteFontContent",2008,21521,0.136036
+"Z:/Projects/DamSan_project_2020_01_18/REMO Engine V1.031/Content/REMO.Light.png","Z:/Projects/DamSan_project_2020_01_18/REMO Engine V1.031/Content/bin/DesktopGL/Content/REMO.Light.xnb","TextureProcessor","Texture2DContent",14936,360085,0.022175
+"Z:/Projects/DamSan_project_2020_01_18/REMO Engine V1.031/Content/REMO.WhiteSpace.png","Z:/Projects/DamSan_project_2020_01_18/REMO Engine V1.031/Content/bin/DesktopGL/Content/REMO.WhiteSpace.xnb","TextureProcessor","Texture2DContent",2817,3685,0.0080018
+"Z:/Projects/DamSan_project_2020_01_18/REMO Engine V1.031/Content/TEST.TestWav.wav","Z:/Projects/DamSan_project_2020_01_18/REMO Engine V1.031/Content/bin/DesktopGL/Content/TEST.TestWav.xnb","SoundEffectProcessor","SoundEffectContent",46972364,46969449,1.98084
