@@ -44,6 +44,7 @@ namespace TestGame
 
     public static class SquareScene
     {
+
         public static int DamageTimer = 0;
 
         public static Gfx2D sqr = new Gfx2D(new Rectangle(375, 400, 30, 30));
